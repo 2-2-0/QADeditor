@@ -1,0 +1,9 @@
+spaf_version:1.0
+level:0
+release:1.2
+name:Quick And Dirty editor
+authors:220
+category:webdev
+tags:php,mysql,database manager
+brief:create PHP/MySQL editors in no time!
+
